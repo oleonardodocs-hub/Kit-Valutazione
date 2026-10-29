@@ -1,0 +1,19 @@
+{
+  "name": "Kit Valutazione Salute Mentale",
+  "short_name": "Valutazione",
+  "description": "Oltre 50 strumenti per la valutazione psicologica.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d1b3e",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
